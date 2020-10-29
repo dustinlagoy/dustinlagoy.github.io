@@ -33,6 +33,7 @@ plugins:
 # to override the default setting.
 exclude:
     - _posts/2020-10-29-welcome-to-jekyll.markdown
+    - about.md
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock
