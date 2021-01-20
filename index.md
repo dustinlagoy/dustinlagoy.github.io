@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: "Dustin Lagoy"
 ---
+
+## Dustin Lagoy
+
+You may know me as a professional, a friend or a fellow human.
+
+[dustin@lagoy.org](mailto:dustin@lagoy.org)
+
+[github.com/dustinlagoy](https://github.com/dustinlagoy)
+
+[linkedin.com/in/dustinlagoy](https://www.linkedin.com/in/dustinlagoy)
